@@ -1,6 +1,5 @@
 # exe2powershell
 **exe2powershell - exe2bat reborn for modern Windows**
-
 exe2bat reborn in exe2powershell for modern Windows
 
 exe2powershell is used to convert any binary file (*.exe) to a BAT file.
